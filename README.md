@@ -51,3 +51,14 @@ Below are some screenshots of the key queries and the resulting analysis perform
 ### 1. Sales Data
 ![Sales Data Screenshot](https://github.com/NI3singh/Snowflake-Project/blob/main/Screenshots/Image_01.png)
 
+### 2. Sales Bucket VS Frequency Graph
+![Sales Bucket VS Frequency Graph](https://github.com/NI3singh/Snowflake-Project/blob/main/Screenshots/Image_02.png)
+
+### 3. Month wise Avg. Sales Data
+![Month Sale Data](https://github.com/NI3singh/Snowflake-Project/blob/main/Screenshots/Image_03.png)
+
+### 4. School Holiday Sales Data
+![Holiday_Sales_data_1](https://github.com/NI3singh/Snowflake-Project/blob/main/Screenshots/Schoolholiday_sales.png)
+
+### 5. State Holiday Sales Data
+![Holiday_Sales_data_2](https://github.com/NI3singh/Snowflake-Project/blob/main/Screenshots/Stateholiday_Sales.png)
