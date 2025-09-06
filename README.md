@@ -47,3 +47,7 @@ One of the most significant findings from the EDA was the quantifiable impact of
 ## 📈 Visualizations
 
 Below are some screenshots of the key queries and the resulting analysis performed in Snowflake.
+
+### 1. Sales Data
+![Sales Data Screenshot](https://github.com/NI3singh/Snowflake-Project/blob/main/Screenshots/Image_01.png)
+
