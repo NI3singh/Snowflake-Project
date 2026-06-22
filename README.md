@@ -13,6 +13,7 @@ This repository contains the end-to-end SQL-based data analysis of the Rossmann 
 - **Cloud Data Platform:** Snowflake
 - **Language:** SQL
 - **Dataset:** Rossmann Store Sales (Kaggle)
+- - **Visualisation:** Tableau Public
 
 ## Methodology
 
@@ -43,6 +44,18 @@ One of the most significant findings from the EDA was the quantifiable impact of
 - The average daily sales for a store on a non-promotional day were **€4,406**.
 - During promotional periods, the average daily sales surged to **€7,991**.
 - This represents a quantifiable sales uplift of **81.5%**, highlighting the critical success of the promotion strategy.
+
+## 📊 Interactive Dashboard
+
+The SQL analysis from Snowflake has been visualized in an interactive 
+Tableau Public dashboard, covering the four key insights from the EDA:
+
+- **Promo vs Non-Promo Sales** — 81.5% uplift (€4,406 → €7,991 avg daily sales)
+- **Sales by Store Type** — performance comparison across store categories A/B/C/D
+- **Monthly Sales Trend** — seasonality pattern across the full year
+- **Holiday Impact** — effect of public, Easter & Christmas holidays on sales
+
+🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/nitin.singh7070/viz/RossmannRetailSalesAnalysis/RossmannRetailSalesAnalysis)
 
 ## 📈 Visualizations
 
