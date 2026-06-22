@@ -13,7 +13,7 @@ This repository contains the end-to-end SQL-based data analysis of the Rossmann 
 - **Cloud Data Platform:** Snowflake
 - **Language:** SQL
 - **Dataset:** Rossmann Store Sales (Kaggle)
-- - **Visualisation:** Tableau Public
+- **Visualisation:** Tableau Public
 
 ## Methodology
 
